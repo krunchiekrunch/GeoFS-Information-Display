@@ -5,6 +5,7 @@
 // @author       krunchiekrunch
 // @match        https://*.geo-fs.com/geofs.php*
 // @icon         https://www.geo-fs.com/images/icons/favicon.ico
+// @grant        none
 // @license      CC BY-NC-SA 4.0
 // ==/UserScript==
 
