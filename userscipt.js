@@ -3,10 +3,8 @@
 // @version      2.5
 // @description  Displays Speed/Altitude/Heading/VS/Throttle on the bottom right of the screen
 // @author       krunchiekrunch
-// @match        https://www.geo-fs.com/geofs.php?v=*
 // @match        https://*.geo-fs.com/geofs.php*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=geo-fs.com
-// @grant        none
+// @icon         https://www.geo-fs.com/images/icons/favicon.ico
 // @license      CC BY-NC-SA 4.0
 // ==/UserScript==
 
